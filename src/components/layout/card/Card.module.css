@@ -1,0 +1,48 @@
+.cardContainer {
+  width: 100%;
+  max-width: 400px;
+  padding: 1rem;
+  border: 1px solid rgb(44, 44, 44);
+}
+
+.cardImage {
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+}
+
+.cardInfo {
+  display: flex;
+  flex-direction: column;
+}
+
+.cardInfo span.title {
+  font-size: 1.2rem;
+}
+
+.cardInfo span {
+  margin-top: 0.5rem;
+}
+
+.cardButton button {
+  cursor: pointer;
+  margin-right: 1rem;
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  appearance: none;
+  outline: none;
+  border: none;
+  background-color: rgb(44, 44, 44);
+  color: #f2f2f2;
+  align-self: baseline;
+}
+
+.cardButton button:hover {
+  opacity: 0.75;
+}
+
+.cardButton {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+}
