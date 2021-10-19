@@ -1,5 +1,5 @@
 import ClipLoader from 'react-spinners/ClipLoader';
-import { Card } from '../components/layout/card/Card';
+import { Card } from '../components/card/Card';
 import type { Data } from '../utils/fetch';
 
 import styles from './Screen.module.css';
