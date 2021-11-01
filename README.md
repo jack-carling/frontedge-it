@@ -4,7 +4,7 @@
 
 Fake api management test using React and Typescript by FrontEdge IT.
 
-[Link to assignment](https://github.com/FrontEdgeIT/React-Typescript-Test-Starter)
+[Link to assignment](https://github.com/FrontEdgeIT/React-Typescript-Starter-Test)
 
 ## Setup
 
